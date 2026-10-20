@@ -26,7 +26,7 @@ Neste espaço, registrarei os conteúdos estudados e as atividades realizadas du
 
 📂 Projetos práticos
 
-Esta seção será atualizada conforme eu desenvolver projetos durante meus estudos.
+A minha seção será atualizada conforme eu desenvolver projetos durante meus estudos.
 Cada projeto terá uma explicação dos objetivos, ferramentas utilizadas, etapas realizadas e conhecimentos adquiridos.
 
 📈 Minha evolução
