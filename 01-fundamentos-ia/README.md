@@ -55,7 +55,7 @@ Aprendi também que os primeiros chatbots utilizavam regras e padrões para simu
 
 Aula estudada — anotações registradas.
 
-📖 AULA 02 — Como uma Inteligência Artificial é Treinada e o que são LLMs
+## 📖 Aula 02 —  Como uma Inteligência Artificial é Treinada e o que são LLMs
 
 Curso: Fundamentos da IA Moderna — DIO
 Bootcamp: Santander Cibersegurança do Zero à Prática
