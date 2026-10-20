@@ -105,3 +105,50 @@ Também aprendi que tokens são unidades de processamento de informações e que
 📌 Status
 
 Aula estudada — anotações registradas.
+
+## 📖 Aula 03 — Entendendo Deep Learning
+
+**Curso:** Fundamentos da IA Moderna — DIO  
+**Bootcamp:** Santander Cibersegurança do Zero à Prática
+
+### 🎯 Objetivo da aula
+
+Compreender o conceito de Deep Learning, seu funcionamento básico e sua importância para o desenvolvimento de sistemas modernos de Inteligência Artificial.
+
+### 🧠 O que é Deep Learning?
+
+Deep Learning, é uma área do Machine Learning que utiliza redes neurais artificiais com múltiplas camadas para identificar e aprender padrões complexos.
+
+Essas redes são formadas por unidades matemáticas conectadas, cujos parâmetros são ajustados durante o treinamento.
+
+### 🔗 Como funcionam as redes neurais?
+
+As redes neurais recebem informações, realizam operações matemáticas e produzem resultados.
+
+Durante o treinamento, os parâmetros das conexões são ajustados para melhorar o desempenho do modelo.
+
+As diferentes camadas permitem aprender representações cada vez mais complexas dos dados.
+
+### 🖼️ O que são modelos multimodais?
+
+Modelos multimodais são sistemas capazes de processar mais de um tipo de informação, como texto, imagens, áudio e, em alguns casos, vídeo.
+
+O Deep Learning é utilizado em muitos desses sistemas, mas os conceitos não significam a mesma coisa.
+
+### 🎬 Exemplo prático — Filme Robô Selvagem
+
+Durante meus estudos, relacionei o conteúdo com o filme robô selvagem.
+
+Ao solicitar recomendações de filmes semelhantes a "Robô Selvagem", observei que a IA conseguiu sugerir obras considerando características que eu não havia mencionado diretamente.
+
+O modelo poderia associar o filme a temas como amizade, emoção, aventura, família e conexão com a natureza.
+
+Esse exemplo me ajudou a compreender como modelos de linguagem podem relacionar conceitos e interpretar o contexto de uma solicitação.
+
+### 💡 O que aprendi
+
+Compreendi que Deep Learning não significa apenas um neurônio artificial, mas o uso de redes neurais com várias camadas.
+
+Também aprendi que modelos modernos podem identificar relações complexas entre informações e que alguns sistemas conseguem trabalhar com diferentes modalidades de dados.
+
+Aula estudada — anotações registradas.
