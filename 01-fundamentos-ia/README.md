@@ -18,8 +18,6 @@ do Zero à Prática, oferecido pela DIO.
 
 Em andamento.
 
-## 💡 O que aprendi
-
 Esta seção será atualizada conforme
 eu avançar nas aulas.
 
